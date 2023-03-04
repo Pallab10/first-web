@@ -1,0 +1,31 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    font-size: 50px;
+}
+
+h2 span{
+    color: darkorange;
+}
+.sec{
+    display: flex;
+    padding-bottom: 80px;
+}
+
+.half{
+    width: 50%;
+    padding-left: 5%;
+}
+.half a{
+    text-decoration: none;
+    padding: 8px 10px;
+    text-transform: uppercase;
+    background-color: rgb(255, 136, 0);
+}
+
+.half img {
+    max-width: 90%;
+
+}
