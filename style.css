@@ -18,14 +18,34 @@ h2 span{
     width: 50%;
     padding-left: 5%;
 }
-.half a{
+
+.btn-link{
     text-decoration: none;
     padding: 8px 10px;
     text-transform: uppercase;
-    background-color: rgb(255, 136, 0);
+    background-color: darkorange;
+    color: #fff;
 }
 
 .half img {
     max-width: 90%;
+}
 
+.experience h1{
+    text-align: center;
+}
+
+.ex-item{
+    box-shadow: 10px 10px 45px rgb(102, 102, 102) ;
+    margin: 0 30px;
+    padding:2% 5%;
+    border-left: 5px solid darkorange;
+}
+
+.ex-item h3{
+    color: darkorange;
+}
+
+footer p {
+    text-align: center;
 }
